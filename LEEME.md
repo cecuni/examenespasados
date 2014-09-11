@@ -10,7 +10,7 @@ Creamos este github al inicio como repositorio, pero lanzando el desarfío a tod
 Tenemos la siguiente jerarquía de archivos: 
 
 Especialidades
--Fisica
+-Fisica \\
   -Física I
   -Física II
   -Física III
@@ -18,5 +18,9 @@ Especialidades
 -Matematica
 -Ciencias de la Computación
 -Otros
+
+
+Necesitamos ayuda
+=================
 
 
